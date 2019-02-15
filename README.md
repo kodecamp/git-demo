@@ -3,4 +3,4 @@ Sample Readme file.
 
 New Line 
 
-REMOVED the new feature.
+ADDED the new feature.
